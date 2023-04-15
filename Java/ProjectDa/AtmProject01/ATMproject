@@ -1,0 +1,15 @@
+Documentation
+
+1.Input
+    1.user login id 
+    2.What want to
+        i.check balance
+        ii.Deposit
+        iii.withdraw
+        iv.exit
+
+2.Output to show
+
+3.How to-Do
+    i.create a class for user and save Input
+    ii.class for activities

@@ -1,0 +1,13 @@
+Queue ==> First in First out (FIFO)
+
+Diff btw Stack and Queue
+Stack -> LAst in Last out
+Queue -> First in First out
+
+Applications of Queue
+* Printing Documents in Scanner
+*Network routers and switchers
+* CPU sheduling
+* Data Transfer
+* Send Mail
+* Variations - priority queue (Setting priority for data tht this should print 1st or happen first)
